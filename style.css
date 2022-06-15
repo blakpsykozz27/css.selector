@@ -5,7 +5,9 @@ color:purple
 }
 /* Give the <body> element a background of #bdc3c7*/
 
-body{background-color: #0989df}    
+body{
+  background-color: #bdc3c7;
+}    
 
 /* Make the <h1> element #9b59b6*/
 
